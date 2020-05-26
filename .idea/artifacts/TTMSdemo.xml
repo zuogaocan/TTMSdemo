@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TTMSdemo">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TTMSdemo</output-path>
+    <root id="root">
+      <element id="archive" name="TTMSdemo.jar">
+        <element id="module-output" name="TTMSdemo" />
+      </element>
+      <element id="module-output" name="TTMSdemo" />
+    </root>
+  </artifact>
+</component>
